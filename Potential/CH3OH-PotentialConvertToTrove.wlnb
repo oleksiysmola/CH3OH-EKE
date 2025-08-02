@@ -342,16 +342,16 @@
   },
   {
    "kind": 2,
-   "value": "(* Keep stretches and torsion *)\r\n(* modesToDecouple = {1, 2, 6, 7, 8, 9, 10, 11}; *)\r\n(* Keep bends and torsion *)\r\n(* modesToDecouple = {1, 2, 3, 4, 5, 6, 10, 11}; *)\r\n(* Keep dihedrals and torsion *)\r\n(* modesToDecouple = {1, 2, 3, 4, 5, 6, 7, 8, 9}; *)\r\n(* Keep stretching and bending *)\r\n(* modesToDecouple = {1, 2, 6, 10, 11, 12}; *)\r\n(* Keep stretching and bending\r\nmodesToDecouple = {1, 2, 6, 10, 11, 12}; *)\r\n(* Keep stretching and dihedrals *)\r\n(* modesToDecouple = {1, 2, 6, 7, 8, 9, 12};     *)\r\n(* Keep Bending and dihedrals *)\r\n(* modesToDecouple = {1, 2, 3, 4, 5, 6, 12};  *)\r\n(* Keep Bending and dihedrals *)\r\nmodesToDecouple = {1, 2, 6, 12};       \r\nreducedPotentialParameters = {};\r\nnumberOfTermsInFullPotential = Length[newPotentialParameters];\r\nkeepParameters = ConstantArray[False, numberOfTermsInFullPotential];\r\nFor[i = 1, i <= numberOfTermsInFullPotential, i++,\r\n    If[Count[newPotentialParameters[[i]][[2 ;; 13]], _?(# != 0 &)] <= 1, keepParameters[[i]] = True]\r\n];\r\nFor[i = 1, i <= numberOfTermsInFullPotential, i++,\r\n    If[keepParameters[[i]], \r\n        reducedPotentialParameters = Append[reducedPotentialParameters, newPotentialParameters[[i]]]\r\n    ]\r\n];\r\nFor[i = 1, i <= numberOfTermsInFullPotential, i++,\r\n    If[Total[Boole[# != 0 & /@ Part[newPotentialParameters[[i]][[2 ;; 13]], modesToDecouple]]] == 0, keepParameters[[i]] = True]\r\n];\r\nFor[i = 1, i <= numberOfTermsInFullPotential, i++,\r\n    If[keepParameters[[i]], \r\n        reducedPotentialParameters = Append[reducedPotentialParameters, newPotentialParameters[[i]]]\r\n    ]\r\n];\r\nreducedPotentialParameters = DeleteDuplicates[reducedPotentialParameters];\r\n",
+   "value": "(* Keep stretches and torsion *)\r\n(* modesToDecouple = {1, 2, 6, 7, 8, 9, 10, 11}; *)\r\n(* Keep bends and torsion *)\r\n(* modesToDecouple = {1, 2, 3, 4, 5, 6, 10, 11}; *)\r\n(* Keep dihedrals and torsion *)\r\n(* modesToDecouple = {1, 2, 3, 4, 5, 6, 7, 8, 9}; *)\r\n(* Keep stretching and bending *)\r\n(* modesToDecouple = {1, 2, 6, 10, 11, 12}; *)\r\n(* Keep stretching and bending\r\nmodesToDecouple = {1, 2, 6, 10, 11, 12}; *)\r\n(* Keep stretching and dihedrals *)\r\n(* modesToDecouple = {1, 2, 6, 7, 8, 9, 12};     *)\r\n(* Keep Bending and dihedrals *)\r\n(* modesToDecouple = {1, 2, 3, 4, 5, 6, 12};  *)\r\n(* Keep Streches, Bending and dihedrals *)\r\n(* modesToDecouple = {1, 2, 6, 12}; *)\r\n(* Keep Stretching *)\r\n(* modesToDecouple = {1, 2, 6, 7, 8, 9, 10, 11, 12}; *)\r\n(* Keep Bending *)\r\n(* modesToDecouple = {1, 2, 3, 4, 5, 6, 10, 11, 12};            *)\r\n(* Keep dihedrals *)\r\nmodesToDecouple = {1, 2, 3, 4, 5, 6, 7, 8, 9, 12};\r\nreducedPotentialParameters = {};\r\nnumberOfTermsInFullPotential = Length[newPotentialParameters];\r\nkeepParameters = ConstantArray[False, numberOfTermsInFullPotential];\r\nFor[i = 1, i <= numberOfTermsInFullPotential, i++,\r\n    If[Count[newPotentialParameters[[i]][[2 ;; 13]], _?(# != 0 &)] <= 1, keepParameters[[i]] = True]\r\n];\r\nFor[i = 1, i <= numberOfTermsInFullPotential, i++,\r\n    If[keepParameters[[i]], \r\n        reducedPotentialParameters = Append[reducedPotentialParameters, newPotentialParameters[[i]]]\r\n    ]\r\n];\r\nFor[i = 1, i <= numberOfTermsInFullPotential, i++,\r\n    If[Total[Boole[# != 0 & /@ Part[newPotentialParameters[[i]][[2 ;; 13]], modesToDecouple]]] == 0, keepParameters[[i]] = True]\r\n];\r\nFor[i = 1, i <= numberOfTermsInFullPotential, i++,\r\n    If[keepParameters[[i]], \r\n        reducedPotentialParameters = Append[reducedPotentialParameters, newPotentialParameters[[i]]]\r\n    ]\r\n];\r\nreducedPotentialParameters = DeleteDuplicates[reducedPotentialParameters];\r\n",
    "languageId": "wolfram",
    "outputs": [],
    "metadata": {},
    "executionSummary": {
     "timing": {
-     "startTime": 1754169857091,
-     "endTime": 1754169857873
+     "startTime": 1754178133150,
+     "endTime": 1754178134018
     },
-    "executionOrder": 2215,
+    "executionOrder": 2387,
     "success": true
    }
   },
@@ -371,9 +371,9 @@
        "mime": "text/plain"
       }
      ],
-     "id": "9058f91b-7ac2-443c-a02c-e09bacf397e5",
+     "id": "da8eb8d3-a978-4b24-a5e5-e283117feeb2",
      "metadata": {
-      "cellLabel": "Out[2224]= ",
+      "cellLabel": "Out[2396]= ",
       "isBoxData": false
      }
     }
@@ -381,10 +381,10 @@
    "metadata": {},
    "executionSummary": {
     "timing": {
-     "startTime": 1754169857875,
-     "endTime": 1754169858064
+     "startTime": 1754178134019,
+     "endTime": 1754178134269
     },
-    "executionOrder": 2224,
+    "executionOrder": 2396,
     "success": true
    }
   },
@@ -404,9 +404,9 @@
        "mime": "text/plain"
       }
      ],
-     "id": "863dbaa1-4323-41c3-a5a4-72abc9b002c0",
+     "id": "372ab863-225b-4873-9901-899195c79fe5",
      "metadata": {
-      "cellLabel": "Out[2225]= ",
+      "cellLabel": "Out[2397]= ",
       "isBoxData": false
      }
     }
@@ -414,10 +414,10 @@
    "metadata": {},
    "executionSummary": {
     "timing": {
-     "startTime": 1754169858065,
-     "endTime": 1754169858304
+     "startTime": 1754178134269,
+     "endTime": 1754178134496
     },
-    "executionOrder": 2225,
+    "executionOrder": 2397,
     "success": true
    }
   },
@@ -429,10 +429,10 @@
    "metadata": {},
    "executionSummary": {
     "timing": {
-     "startTime": 1754169858304,
-     "endTime": 1754169858390
+     "startTime": 1754178134499,
+     "endTime": 1754178134622
     },
-    "executionOrder": 2226,
+    "executionOrder": 2398,
     "success": true
    }
   },
@@ -452,7 +452,7 @@
        "mime": "text/plain"
       }
      ],
-     "id": "c8448391-f24d-4b0f-8167-16722005d3c1",
+     "id": "22bdf291-20ba-4dcb-a5be-1859e20c992e",
      "metadata": {
       "cellLabel": "",
       "isBoxData": false
@@ -462,8 +462,8 @@
    "metadata": {},
    "executionSummary": {
     "timing": {
-     "startTime": 1754169858390,
-     "endTime": 1754169858558
+     "startTime": 1754178134624,
+     "endTime": 1754178134820
     },
     "success": true
    }
@@ -484,9 +484,9 @@
        "mime": "text/plain"
       }
      ],
-     "id": "70ce14a5-f6ee-4b4f-9c3b-85fa319b1677",
+     "id": "3749efad-6286-45fd-baf3-3ecfc05f6791",
      "metadata": {
-      "cellLabel": "Out[2227]= ",
+      "cellLabel": "Out[2399]= ",
       "isBoxData": false
      }
     }
@@ -494,10 +494,10 @@
    "metadata": {},
    "executionSummary": {
     "timing": {
-     "startTime": 1754169858558,
-     "endTime": 1754169858740
+     "startTime": 1754178134821,
+     "endTime": 1754178135017
     },
-    "executionOrder": 2227,
+    "executionOrder": 2399,
     "success": true
    }
   },
@@ -509,10 +509,10 @@
    "metadata": {},
    "executionSummary": {
     "timing": {
-     "startTime": 1754169858741,
-     "endTime": 1754169858846
+     "startTime": 1754178135018,
+     "endTime": 1754178135165
     },
-    "executionOrder": 2228,
+    "executionOrder": 2400,
     "success": true
    }
   },
@@ -532,7 +532,7 @@
        "mime": "text/plain"
       }
      ],
-     "id": "5309a5d0-13df-4f44-b56d-2e5ddddfbf04",
+     "id": "b3cd97b0-dbff-4881-aa4b-34b7c1d51100",
      "metadata": {
       "cellLabel": "",
       "isBoxData": false
@@ -542,10 +542,10 @@
    "metadata": {},
    "executionSummary": {
     "timing": {
-     "startTime": 1754169858847,
-     "endTime": 1754169859131
+     "startTime": 1754178135166,
+     "endTime": 1754178135420
     },
-    "executionOrder": 2229,
+    "executionOrder": 2401,
     "success": true
    }
   },
@@ -557,10 +557,10 @@
    "metadata": {},
    "executionSummary": {
     "timing": {
-     "startTime": 1754169859131,
-     "endTime": 1754169859533
+     "startTime": 1754178135421,
+     "endTime": 1754178135869
     },
-    "executionOrder": 2231,
+    "executionOrder": 2403,
     "success": true
    }
   },
@@ -572,10 +572,10 @@
    "metadata": {},
    "executionSummary": {
     "timing": {
-     "startTime": 1754169859534,
-     "endTime": 1754169859631
+     "startTime": 1754178135870,
+     "endTime": 1754178135991
     },
-    "executionOrder": 2236,
+    "executionOrder": 2408,
     "success": true
    }
   }
