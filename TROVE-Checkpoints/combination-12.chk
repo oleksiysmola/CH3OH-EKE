@@ -1,0 +1,16 @@
+BASIC-FUNCTION
+Mode 1 0
+Mode 2 0
+Mode 3 0
+Mode 4 0
+Mode 5 0
+Mode 6 0
+Mode 7 0
+Mode 8 0
+Mode 9 0
+Mode 10 0
+Mode 11 0
+Mode 12 2
+1 1 1 Cos 1 1
+2 1 1 Sin 1 1
+END
