@@ -8,10 +8,10 @@
    "metadata": {},
    "executionSummary": {
     "timing": {
-     "startTime": 1754304059111,
-     "endTime": 1754304059199
+     "startTime": 1754858193297,
+     "endTime": 1754858193639
     },
-    "executionOrder": 20,
+    "executionOrder": 1,
     "success": true
    }
   },
@@ -31,9 +31,9 @@
        "mime": "text/plain"
       }
      ],
-     "id": "b78a6ca4-37c7-42a6-8029-872d716faa66",
+     "id": "ae6ca794-c0a6-4fc2-97b7-138252810ba5",
      "metadata": {
-      "cellLabel": "Out[2]//MatrixForm= ",
+      "cellLabel": "Out[3]//MatrixForm= ",
       "isBoxData": false
      }
     },
@@ -48,9 +48,9 @@
        "mime": "text/plain"
       }
      ],
-     "id": "12314cdf-b756-434f-95cf-db30ddb92a24",
+     "id": "a1c9bc57-9d02-4e43-a927-5a1eff52fbe6",
      "metadata": {
-      "cellLabel": "Out[4]//MatrixForm= ",
+      "cellLabel": "Out[5]//MatrixForm= ",
       "isBoxData": false
      }
     },
@@ -65,9 +65,9 @@
        "mime": "text/plain"
       }
      ],
-     "id": "99c150e0-51ef-4cc3-8577-90a08a7056b4",
+     "id": "7244fe36-1765-487a-9358-134d623ecc09",
      "metadata": {
-      "cellLabel": "Out[5]//MatrixForm= ",
+      "cellLabel": "Out[6]//MatrixForm= ",
       "isBoxData": false
      }
     },
@@ -82,9 +82,9 @@
        "mime": "text/plain"
       }
      ],
-     "id": "82f03566-cb9a-4347-911b-47c28dc4c0e5",
+     "id": "c71cbe7e-d057-408b-9c7a-a3469f523e42",
      "metadata": {
-      "cellLabel": "Out[7]//MatrixForm= ",
+      "cellLabel": "Out[8]//MatrixForm= ",
       "isBoxData": false
      }
     },
@@ -99,9 +99,9 @@
        "mime": "text/plain"
       }
      ],
-     "id": "9705934a-7636-44ba-a4d4-40fd802013a7",
+     "id": "46e62800-7084-4490-8862-07b752458082",
      "metadata": {
-      "cellLabel": "Out[11]//MatrixForm= ",
+      "cellLabel": "Out[12]//MatrixForm= ",
       "isBoxData": false
      }
     },
@@ -116,9 +116,9 @@
        "mime": "text/plain"
       }
      ],
-     "id": "a8246ff8-e1b6-4f73-b566-ae1e89324d1f",
+     "id": "7a387685-31c3-486d-abfa-fb35f7402233",
      "metadata": {
-      "cellLabel": "Out[12]//MatrixForm= ",
+      "cellLabel": "Out[13]//MatrixForm= ",
       "isBoxData": false
      }
     },
@@ -133,9 +133,9 @@
        "mime": "text/plain"
       }
      ],
-     "id": "781b44ab-234f-4930-93b1-8329952cb942",
+     "id": "eb0c751d-eea1-48a4-b137-f1cb04ff9c01",
      "metadata": {
-      "cellLabel": "Out[15]//MatrixForm= ",
+      "cellLabel": "Out[16]//MatrixForm= ",
       "isBoxData": false
      }
     },
@@ -150,9 +150,9 @@
        "mime": "text/plain"
       }
      ],
-     "id": "d92dc9aa-2825-4b83-b65e-bb665cbf2b28",
+     "id": "f8c27437-0964-4408-a461-dcb7b6d452ca",
      "metadata": {
-      "cellLabel": "Out[17]//MatrixForm= ",
+      "cellLabel": "Out[18]//MatrixForm= ",
       "isBoxData": false
      }
     },
@@ -167,9 +167,9 @@
        "mime": "text/plain"
       }
      ],
-     "id": "1e301df7-a0b5-4caf-a5e2-63836b7df2b0",
+     "id": "9809dd63-3359-432f-9599-3be368d926de",
      "metadata": {
-      "cellLabel": "Out[19]//MatrixForm= ",
+      "cellLabel": "Out[20]//MatrixForm= ",
       "isBoxData": false
      }
     }
@@ -177,10 +177,10 @@
    "metadata": {},
    "executionSummary": {
     "timing": {
-     "startTime": 1754304042280,
-     "endTime": 1754304045109
+     "startTime": 1754858279828,
+     "endTime": 1754858283759
     },
-    "executionOrder": 1,
+    "executionOrder": 2,
     "success": true
    }
   },
@@ -200,7 +200,7 @@
        "mime": "text/plain"
       }
      ],
-     "id": "3dd5e750-23f6-4214-8a9c-8ff495910615",
+     "id": "7f5db1b3-3aed-4077-a239-fa5f02891b1a",
      "metadata": {
       "cellLabel": "Out[31]//MatrixForm= ",
       "isBoxData": false
@@ -217,7 +217,7 @@
        "mime": "text/plain"
       }
      ],
-     "id": "72d5cd6c-12af-4223-a3dd-ba708fae29bf",
+     "id": "72368b6b-bfe7-4dad-860c-fe89171d7776",
      "metadata": {
       "cellLabel": "Out[33]//MatrixForm= ",
       "isBoxData": false
@@ -234,7 +234,7 @@
        "mime": "text/plain"
       }
      ],
-     "id": "07d9655d-d0d5-45e4-bfd9-cb199e12f0a5",
+     "id": "581547a6-7ca3-4d26-a06e-df903b5977ca",
      "metadata": {
       "cellLabel": "Out[34]//MatrixForm= ",
       "isBoxData": false
@@ -251,7 +251,7 @@
        "mime": "text/plain"
       }
      ],
-     "id": "107381c5-0ba3-4e5f-b714-54ec09ac2cab",
+     "id": "44be4642-4710-4c10-b8bf-1671c00346f3",
      "metadata": {
       "cellLabel": "Out[35]//MatrixForm= ",
       "isBoxData": false
@@ -268,7 +268,7 @@
        "mime": "text/plain"
       }
      ],
-     "id": "d3ed353c-1ef3-45eb-8ffd-6cfc9aa2f9ae",
+     "id": "4cce65e2-71b5-4f83-a315-ecf107d88b5e",
      "metadata": {
       "cellLabel": "Out[36]//MatrixForm= ",
       "isBoxData": false
@@ -285,7 +285,7 @@
        "mime": "text/plain"
       }
      ],
-     "id": "21a079e9-4d7b-409a-96bd-98761fcd64f7",
+     "id": "55a3cc1f-9bab-4927-9c9f-8ed35e1eb21c",
      "metadata": {
       "cellLabel": "Out[38]//MatrixForm= ",
       "isBoxData": false
@@ -302,7 +302,7 @@
        "mime": "text/plain"
       }
      ],
-     "id": "317a9ec0-fadb-4f0b-9a24-0c94ae039330",
+     "id": "da978d45-8231-4184-ba83-0e96b6d88ddd",
      "metadata": {
       "cellLabel": "Out[40]//MatrixForm= ",
       "isBoxData": false
@@ -312,8 +312,8 @@
    "metadata": {},
    "executionSummary": {
     "timing": {
-     "startTime": 1754326020100,
-     "endTime": 1754326022685
+     "startTime": 1754858283760,
+     "endTime": 1754858286700
     },
     "executionOrder": 21,
     "success": true
@@ -335,7 +335,7 @@
        "mime": "text/plain"
       }
      ],
-     "id": "bb741174-06d4-4270-82fe-397ba4608f4a",
+     "id": "fb1ffc8d-6d1f-4c80-9d7d-7335ef657421",
      "metadata": {
       "cellLabel": "Out[45]//MatrixForm= ",
       "isBoxData": false
@@ -352,7 +352,7 @@
        "mime": "text/plain"
       }
      ],
-     "id": "280929f4-1675-4c58-86ba-8aae8db846bd",
+     "id": "92f9b9a6-28bd-4abc-a027-5da7e5f1d7df",
      "metadata": {
       "cellLabel": "Out[48]//MatrixForm= ",
       "isBoxData": false
@@ -369,7 +369,7 @@
        "mime": "text/plain"
       }
      ],
-     "id": "d14614c8-76dd-4380-b9a2-568f6557fd10",
+     "id": "97fc5977-7983-4ab0-9236-f979fe65f417",
      "metadata": {
       "cellLabel": "Out[50]//MatrixForm= ",
       "isBoxData": false
@@ -386,7 +386,7 @@
        "mime": "text/plain"
       }
      ],
-     "id": "2ca435b8-d3b6-46de-86c9-abe5d2fff876",
+     "id": "4b155948-f835-4eb8-b116-6b59e145b7f8",
      "metadata": {
       "cellLabel": "Out[54]//MatrixForm= ",
       "isBoxData": false
@@ -403,7 +403,7 @@
        "mime": "text/plain"
       }
      ],
-     "id": "021d6409-3b91-44cb-b8dd-eecf58b8f798",
+     "id": "7d495d25-28d9-4a00-8e6b-3c75545ee61c",
      "metadata": {
       "cellLabel": "Out[56]//MatrixForm= ",
       "isBoxData": false
@@ -420,7 +420,7 @@
        "mime": "text/plain"
       }
      ],
-     "id": "b54d17a0-63cf-447b-9e18-4211f3b37299",
+     "id": "c0a76f70-5492-4df7-9f0e-164b4618a3d8",
      "metadata": {
       "cellLabel": "Out[58]//MatrixForm= ",
       "isBoxData": false
@@ -437,7 +437,7 @@
        "mime": "text/plain"
       }
      ],
-     "id": "e257f72c-a14c-44bc-8bd6-c333b47bbc83",
+     "id": "0c31901d-943c-4d26-9197-e439766dd839",
      "metadata": {
       "cellLabel": "Out[60]//MatrixForm= ",
       "isBoxData": false
@@ -454,7 +454,7 @@
        "mime": "text/plain"
       }
      ],
-     "id": "e332d74c-f94f-466f-b357-f2e1156ed963",
+     "id": "dde7b5ad-004c-4c60-a326-a7e4af4fdb71",
      "metadata": {
       "cellLabel": "Out[72]//MatrixForm= ",
       "isBoxData": false
@@ -464,8 +464,8 @@
    "metadata": {},
    "executionSummary": {
     "timing": {
-     "startTime": 1754326043707,
-     "endTime": 1754326050573
+     "startTime": 1754858286706,
+     "endTime": 1754858297793
     },
     "executionOrder": 41,
     "success": true
@@ -487,7 +487,7 @@
        "mime": "text/plain"
       }
      ],
-     "id": "a78849b9-1ea7-4203-8916-d89946e078e9",
+     "id": "4932f3e7-50bb-483c-b56e-21e2131908e3",
      "metadata": {
       "cellLabel": "Out[74]//MatrixForm= ",
       "isBoxData": false
@@ -504,7 +504,7 @@
        "mime": "text/plain"
       }
      ],
-     "id": "b2263106-667f-4d4f-9db4-0ec07e83fa62",
+     "id": "21be271d-ecc5-469f-9f87-3bbcf9df9345",
      "metadata": {
       "cellLabel": "Out[77]//MatrixForm= ",
       "isBoxData": false
@@ -514,8 +514,8 @@
    "metadata": {},
    "executionSummary": {
     "timing": {
-     "startTime": 1754326062112,
-     "endTime": 1754326062853
+     "startTime": 1754858297794,
+     "endTime": 1754858298604
     },
     "executionOrder": 73,
     "success": true
@@ -537,7 +537,7 @@
        "mime": "text/plain"
       }
      ],
-     "id": "ea764787-340b-4b82-a6a9-38cbfc607b9d",
+     "id": "052de6ca-c095-43a2-92e4-90c87c91f3d5",
      "metadata": {
       "cellLabel": "Out[82]//MatrixForm= ",
       "isBoxData": false
@@ -547,8 +547,8 @@
    "metadata": {},
    "executionSummary": {
     "timing": {
-     "startTime": 1754326062854,
-     "endTime": 1754326063638
+     "startTime": 1754858298604,
+     "endTime": 1754858299305
     },
     "executionOrder": 78,
     "success": true
@@ -570,7 +570,7 @@
        "mime": "text/plain"
       }
      ],
-     "id": "7390574e-7531-45d2-9a27-779044f6aaa3",
+     "id": "94b81388-2d2c-4697-8409-16498c55b778",
      "metadata": {
       "cellLabel": "Out[86]//MatrixForm= ",
       "isBoxData": false
@@ -587,7 +587,7 @@
        "mime": "text/plain"
       }
      ],
-     "id": "f0f69fd3-0b89-4a10-8642-2e94d76e86d4",
+     "id": "0d499c6d-6851-4b54-8b37-ef611216f0d6",
      "metadata": {
       "cellLabel": "Out[87]//MatrixForm= ",
       "isBoxData": false
@@ -604,7 +604,7 @@
        "mime": "text/plain"
       }
      ],
-     "id": "801469f7-8f96-4ec5-bfc7-d1046fa5c442",
+     "id": "4db5f715-bf7e-4ef9-8918-162494b659da",
      "metadata": {
       "cellLabel": "Out[90]= ",
       "isBoxData": false
@@ -621,7 +621,7 @@
        "mime": "text/plain"
       }
      ],
-     "id": "ae93ac8f-d98c-419f-b017-f1f282730a0e",
+     "id": "add7fdf1-eab3-492b-909b-37eb8663b0ba",
      "metadata": {
       "cellLabel": "Out[94]//MatrixForm= ",
       "isBoxData": false
@@ -631,8 +631,8 @@
    "metadata": {},
    "executionSummary": {
     "timing": {
-     "startTime": 1754326063639,
-     "endTime": 1754326065232
+     "startTime": 1754858299306,
+     "endTime": 1754858301137
     },
     "executionOrder": 83,
     "success": true
@@ -654,7 +654,7 @@
        "mime": "text/plain"
       }
      ],
-     "id": "8b689f63-3079-4ace-b26d-0cfd01775cab",
+     "id": "b7b76f60-f980-47e3-991d-d175ff0d5261",
      "metadata": {
       "cellLabel": "Out[95]//MatrixForm= ",
       "isBoxData": false
@@ -664,8 +664,8 @@
    "metadata": {},
    "executionSummary": {
     "timing": {
-     "startTime": 1754326065232,
-     "endTime": 1754326065447
+     "startTime": 1754858301138,
+     "endTime": 1754858301357
     },
     "executionOrder": 95,
     "success": true
@@ -687,7 +687,7 @@
        "mime": "text/plain"
       }
      ],
-     "id": "f0a6f241-b3e0-4842-b1ea-c3f5869c34c3",
+     "id": "e96c7edb-1f08-4c28-92a3-6a6adfa9249f",
      "metadata": {
       "cellLabel": "Out[98]//MatrixForm= ",
       "isBoxData": false
@@ -704,7 +704,7 @@
        "mime": "text/plain"
       }
      ],
-     "id": "ae9c9928-c221-43ec-9acd-003e8bacce0a",
+     "id": "e5474f26-5b59-423b-8d00-22a36ee64128",
      "metadata": {
       "cellLabel": "Out[102]//MatrixForm= ",
       "isBoxData": false
@@ -714,8 +714,8 @@
    "metadata": {},
    "executionSummary": {
     "timing": {
-     "startTime": 1754326065447,
-     "endTime": 1754326066847
+     "startTime": 1754858301357,
+     "endTime": 1754858303232
     },
     "executionOrder": 96,
     "success": true
@@ -737,7 +737,7 @@
        "mime": "text/plain"
       }
      ],
-     "id": "3485dec5-3032-446c-9429-bf92e5c02b88",
+     "id": "26662593-d5f3-4f0a-af4a-6195f8d6ccf6",
      "metadata": {
       "cellLabel": "Out[106]//MatrixForm= ",
       "isBoxData": false
@@ -747,8 +747,8 @@
    "metadata": {},
    "executionSummary": {
     "timing": {
-     "startTime": 1754326066847,
-     "endTime": 1754326112967
+     "startTime": 1754858303232,
+     "endTime": 1754858358592
     },
     "executionOrder": 103,
     "success": true
@@ -766,7 +766,7 @@
        "mime": "x-application/wolfram-language-html"
       }
      ],
-     "id": "d6913eb5-186b-42a2-9c6e-5579d2f3e32d",
+     "id": "801e95e1-40ad-45a0-9604-08b1692b26c0",
      "metadata": {
       "cellLabel": "Out[110]//MatrixForm= ",
       "isBoxData": false
@@ -776,8 +776,8 @@
    "metadata": {},
    "executionSummary": {
     "timing": {
-     "startTime": 1754326112967,
-     "endTime": 1754326187855
+     "startTime": 1754858358593,
+     "endTime": 1754858579727
     },
     "executionOrder": 107,
     "success": true
@@ -799,7 +799,7 @@
        "mime": "text/plain"
       }
      ],
-     "id": "dbbe32f2-ff78-4a06-b574-559a851dfe7c",
+     "id": "22eea71d-3b93-442d-a66c-541eb64fb56f",
      "metadata": {
       "cellLabel": "Out[111]= ",
       "isBoxData": false
@@ -816,7 +816,7 @@
        "mime": "text/plain"
       }
      ],
-     "id": "9591cb79-7e82-44aa-869b-a0a7d618367a",
+     "id": "aecdefaa-8548-46c4-bd1d-3118194f24a5",
      "metadata": {
       "cellLabel": "Out[112]= ",
       "isBoxData": false
@@ -833,7 +833,7 @@
        "mime": "text/plain"
       }
      ],
-     "id": "6880b57b-9dbf-4356-915b-0d85da236c9d",
+     "id": "ab98623f-a642-4e7c-acb3-b144c1e06b06",
      "metadata": {
       "cellLabel": "Out[113]= ",
       "isBoxData": false
@@ -843,8 +843,8 @@
    "metadata": {},
    "executionSummary": {
     "timing": {
-     "startTime": 1754326187856,
-     "endTime": 1754326188323
+     "startTime": 1754858579728,
+     "endTime": 1754858580376
     },
     "executionOrder": 111,
     "success": true
@@ -866,7 +866,7 @@
        "mime": "text/plain"
       }
      ],
-     "id": "104f707a-4433-4d58-943e-969327c5a0f4",
+     "id": "de0d6b74-6dd8-4c72-9cce-59054b21bc19",
      "metadata": {
       "cellLabel": "Out[121]= ",
       "isBoxData": false
@@ -883,7 +883,7 @@
        "mime": "text/plain"
       }
      ],
-     "id": "4868577c-146a-462f-996f-d7b9f6c368d3",
+     "id": "336e8912-46a8-4957-a7e7-dfb206475276",
      "metadata": {
       "cellLabel": "Out[123]= ",
       "isBoxData": false
@@ -893,8 +893,8 @@
    "metadata": {},
    "executionSummary": {
     "timing": {
-     "startTime": 1754326188323,
-     "endTime": 1754326581724
+     "startTime": 1754858580377,
+     "endTime": 1754859289559
     },
     "executionOrder": 114,
     "success": true
@@ -916,7 +916,7 @@
        "mime": "text/plain"
       }
      ],
-     "id": "56710192-9cf8-4367-a477-184a7380532a",
+     "id": "431bd1d2-6b88-4224-bbfb-d11051acb6a8",
      "metadata": {
       "cellLabel": "Out[127]= ",
       "isBoxData": false
@@ -926,8 +926,8 @@
    "metadata": {},
    "executionSummary": {
     "timing": {
-     "startTime": 1754326581726,
-     "endTime": 1754326581958
+     "startTime": 1754859289560,
+     "endTime": 1754859289865
     },
     "executionOrder": 127,
     "success": true
@@ -935,16 +935,34 @@
   },
   {
    "kind": 2,
-   "value": "pseudoPotential = pseudoPotentialFull;",
+   "value": "pseudoPotential = pseudoPotentialFull;\r\n((GMatrix[[15, 15]] /. massSubstitution) /. coordinateEquilibriumSubstitution)*ft // Expand",
    "languageId": "wolfram",
-   "outputs": [],
+   "outputs": [
+    {
+     "items": [
+      {
+       "data": "<div class=\"wexpr\"><wrow><w></w><w>55.0226425189723440676544385328071859521900886572821532475164`32.46037101136498</w><w>+</w><wrow><w></w><wsup><w></w><w>0.&#215;10</w><w><w>-32</w></w></wsup><w></w><wrow><w></w><w>Cos</w><wrow><w></w><wb>[</wb><w>τ</w><wb>]</wb></wrow></wrow></wrow><w>+</w><wrow><w></w><wsup><w></w><w>0.&#215;10</w><w><w>-32</w></w></wsup><w></w><wrow><w></w><w>Sin</w><wrow><w></w><wb>[</wb><w>τ</w><wb>]</wb></wrow></wrow></wrow></wrow></div>",
+       "mime": "x-application/wolfram-language-html"
+      },
+      {
+       "data": "55.0226425189723440676544385328071859521900886572821532475164`32.46037101136498 + 0``32.65418423972427*Cos[τ] + 0``32.71665360802842*Sin[τ]",
+       "mime": "text/plain"
+      }
+     ],
+     "id": "069da297-8215-4a1b-987b-84e6fad4e6ad",
+     "metadata": {
+      "cellLabel": "Out[306]= ",
+      "isBoxData": false
+     }
+    }
+   ],
    "metadata": {},
    "executionSummary": {
     "timing": {
-     "startTime": 1754326581959,
-     "endTime": 1754326582078
+     "startTime": 1754859902682,
+     "endTime": 1754859902952
     },
-    "executionOrder": 128,
+    "executionOrder": 305,
     "success": true
    }
   },
@@ -956,8 +974,8 @@
    "metadata": {},
    "executionSummary": {
     "timing": {
-     "startTime": 1754326582079,
-     "endTime": 1754326582218
+     "startTime": 1754859289988,
+     "endTime": 1754859290109
     },
     "executionOrder": 129,
     "success": true
@@ -979,9 +997,9 @@
        "mime": "text/plain"
       }
      ],
-     "id": "3d9bfa1b-ffd3-44db-97aa-f58d81c001f1",
+     "id": "b6495adc-7af7-48c8-a4ba-d46573706a7f",
      "metadata": {
-      "cellLabel": "Out[374]//MatrixForm= ",
+      "cellLabel": "Out[133]//MatrixForm= ",
       "isBoxData": false
      }
     }
@@ -989,10 +1007,10 @@
    "metadata": {},
    "executionSummary": {
     "timing": {
-     "startTime": 1754394356759,
-     "endTime": 1754394357169
+     "startTime": 1754859290110,
+     "endTime": 1754859290710
     },
-    "executionOrder": 371,
+    "executionOrder": 130,
     "success": true
    }
   },
@@ -1012,9 +1030,9 @@
        "mime": "text/plain"
       }
      ],
-     "id": "74d7f17c-4fda-472c-b58c-027e6f005c4a",
+     "id": "e524115a-3cd5-4c79-b70c-bf6287591b87",
      "metadata": {
-      "cellLabel": "Out[381]//MatrixForm= ",
+      "cellLabel": "Out[140]//MatrixForm= ",
       "isBoxData": false
      }
     },
@@ -1029,9 +1047,9 @@
        "mime": "text/plain"
       }
      ],
-     "id": "ba70ce41-1b4c-4409-a59c-cdd19beb9313",
+     "id": "9af045c8-4fc5-4fcd-938d-a7231a61e135",
      "metadata": {
-      "cellLabel": "Out[382]= ",
+      "cellLabel": "Out[141]= ",
       "isBoxData": false
      }
     }
@@ -1039,10 +1057,10 @@
    "metadata": {},
    "executionSummary": {
     "timing": {
-     "startTime": 1754394357170,
-     "endTime": 1754394358450
+     "startTime": 1754859290711,
+     "endTime": 1754859294357
     },
-    "executionOrder": 375,
+    "executionOrder": 134,
     "success": true
    }
   },
@@ -1062,9 +1080,9 @@
        "mime": "text/plain"
       }
      ],
-     "id": "ecbe2d80-3fed-40f9-88f9-d24131422e12",
+     "id": "9a36de6e-1c0e-4b59-9479-5db367e6c8a9",
      "metadata": {
-      "cellLabel": "Out[385]= ",
+      "cellLabel": "Out[144]= ",
       "isBoxData": false
      }
     },
@@ -1079,9 +1097,9 @@
        "mime": "text/plain"
       }
      ],
-     "id": "81d86462-81e9-45b2-897d-0221b9f9ffa4",
+     "id": "effd12e6-5ab4-42d1-9a86-9e20ed929d3d",
      "metadata": {
-      "cellLabel": "Out[390]//MatrixForm= ",
+      "cellLabel": "Out[149]//MatrixForm= ",
       "isBoxData": false
      }
     }
@@ -1089,10 +1107,10 @@
    "metadata": {},
    "executionSummary": {
     "timing": {
-     "startTime": 1754394358453,
-     "endTime": 1754394359224
+     "startTime": 1754859294358,
+     "endTime": 1754859295262
     },
-    "executionOrder": 383,
+    "executionOrder": 142,
     "success": true
    }
   },
@@ -1112,9 +1130,9 @@
        "mime": "text/plain"
       }
      ],
-     "id": "655490db-251c-451a-9fa5-62fb15cba1fd",
+     "id": "b9a0529e-63e8-4dc6-a4a6-7ffdcb29cd74",
      "metadata": {
-      "cellLabel": "Out[395]//MatrixForm= ",
+      "cellLabel": "Out[154]//MatrixForm= ",
       "isBoxData": false
      }
     }
@@ -1122,10 +1140,10 @@
    "metadata": {},
    "executionSummary": {
     "timing": {
-     "startTime": 1754394359225,
-     "endTime": 1754394359740
+     "startTime": 1754859295263,
+     "endTime": 1754859295830
     },
-    "executionOrder": 391,
+    "executionOrder": 150,
     "success": true
    }
   },
@@ -1145,9 +1163,9 @@
        "mime": "text/plain"
       }
      ],
-     "id": "89a82421-8887-495e-ab24-8e235789506c",
+     "id": "bf82d4d8-acea-4d1d-9eb0-290bd5042028",
      "metadata": {
-      "cellLabel": "Out[401]//MatrixForm= ",
+      "cellLabel": "Out[160]//MatrixForm= ",
       "isBoxData": false
      }
     }
@@ -1155,10 +1173,10 @@
    "metadata": {},
    "executionSummary": {
     "timing": {
-     "startTime": 1754394359741,
-     "endTime": 1754394360379
+     "startTime": 1754859295830,
+     "endTime": 1754859296746
     },
-    "executionOrder": 396,
+    "executionOrder": 155,
     "success": true
    }
   },
@@ -1178,9 +1196,9 @@
        "mime": "text/plain"
       }
      ],
-     "id": "80908bdf-0c6a-4f42-950a-b33673b38e80",
+     "id": "55d9668d-e17b-45ae-b48a-6a7724aa9249",
      "metadata": {
-      "cellLabel": "Out[410]//MatrixForm= ",
+      "cellLabel": "Out[169]//MatrixForm= ",
       "isBoxData": false
      }
     }
@@ -1188,10 +1206,10 @@
    "metadata": {},
    "executionSummary": {
     "timing": {
-     "startTime": 1754394360379,
-     "endTime": 1754394361195
+     "startTime": 1754859296747,
+     "endTime": 1754859297727
     },
-    "executionOrder": 402,
+    "executionOrder": 161,
     "success": true
    }
   },
@@ -1211,9 +1229,9 @@
        "mime": "text/plain"
       }
      ],
-     "id": "8cc4a366-8c49-4f24-a8a0-861418579637",
+     "id": "baadbd72-5c54-4e40-b46d-77b357ba3dac",
      "metadata": {
-      "cellLabel": "Out[419]//MatrixForm= ",
+      "cellLabel": "Out[178]//MatrixForm= ",
       "isBoxData": false
      }
     }
@@ -1221,10 +1239,10 @@
    "metadata": {},
    "executionSummary": {
     "timing": {
-     "startTime": 1754394361195,
-     "endTime": 1754394362113
+     "startTime": 1754859297728,
+     "endTime": 1754859298728
     },
-    "executionOrder": 411,
+    "executionOrder": 170,
     "success": true
    }
   },
@@ -1244,7 +1262,7 @@
        "mime": "text/plain"
       }
      ],
-     "id": "06fd80e0-6c40-4de7-80c8-9417688a9fbb",
+     "id": "a26373db-d508-4bda-8a16-62879b44c1a9",
      "metadata": {
       "cellLabel": "",
       "isBoxData": false
@@ -1261,7 +1279,7 @@
        "mime": "text/plain"
       }
      ],
-     "id": "9573dde6-4eac-44e1-94dd-2cab974395b1",
+     "id": "2b305594-123b-46c8-9e2a-d9cdfecf284b",
      "metadata": {
       "cellLabel": "",
       "isBoxData": false
@@ -1278,7 +1296,7 @@
        "mime": "text/plain"
       }
      ],
-     "id": "adad226c-b015-4cd4-a8ca-5dea345be613",
+     "id": "7635759e-049a-4a0d-a2e3-d822117c993a",
      "metadata": {
       "cellLabel": "",
       "isBoxData": false
@@ -1295,7 +1313,7 @@
        "mime": "text/plain"
       }
      ],
-     "id": "c9c7beda-f261-43c4-a0ed-6d20668ec946",
+     "id": "3ea6f3f7-fb2d-40f0-b46a-f17384712b4f",
      "metadata": {
       "cellLabel": "",
       "isBoxData": false
@@ -1312,7 +1330,7 @@
        "mime": "text/plain"
       }
      ],
-     "id": "9629d376-68b1-4da1-b3da-c0a15c8173fa",
+     "id": "cd1e8940-5d2a-4843-9949-3067028b799c",
      "metadata": {
       "cellLabel": "",
       "isBoxData": false
@@ -1329,7 +1347,7 @@
        "mime": "text/plain"
       }
      ],
-     "id": "b50f690b-5534-4f61-b86d-4fb2851e5da6",
+     "id": "0b6a2e3a-7c3b-4852-b144-2eab4f10ceca",
      "metadata": {
       "cellLabel": "",
       "isBoxData": false
@@ -1346,7 +1364,7 @@
        "mime": "text/plain"
       }
      ],
-     "id": "f3db4f22-5be6-40cf-8601-9327a9a43574",
+     "id": "1be33f19-a914-4173-88c1-adfddc3eb75d",
      "metadata": {
       "cellLabel": "",
       "isBoxData": false
@@ -1363,7 +1381,7 @@
        "mime": "text/plain"
       }
      ],
-     "id": "c5fa9ce2-bdfa-4bf3-9833-6f7564749835",
+     "id": "a6f417a0-7a2f-46f5-8a56-f0b5864fb8dc",
      "metadata": {
       "cellLabel": "",
       "isBoxData": false
@@ -1380,9 +1398,9 @@
        "mime": "text/plain"
       }
      ],
-     "id": "7f5b62f8-ebbd-43e7-b596-ba384f47a28e",
+     "id": "29cf3bd5-64dd-4ec1-8eb9-806aa2599403",
      "metadata": {
-      "cellLabel": "Out[424]//MatrixForm= ",
+      "cellLabel": "Out[183]//MatrixForm= ",
       "isBoxData": false
      }
     }
@@ -1390,10 +1408,10 @@
    "metadata": {},
    "executionSummary": {
     "timing": {
-     "startTime": 1754394362114,
-     "endTime": 1754394363946
+     "startTime": 1754859298730,
+     "endTime": 1754859300978
     },
-    "executionOrder": 420,
+    "executionOrder": 179,
     "success": true
    }
   },
@@ -1413,9 +1431,9 @@
        "mime": "text/plain"
       }
      ],
-     "id": "ed95b5f8-8081-4935-bc03-23bd6cd6076c",
+     "id": "55e068f7-5736-44ad-9b1d-4decc445342c",
      "metadata": {
-      "cellLabel": "Out[433]//MatrixForm= ",
+      "cellLabel": "Out[192]//MatrixForm= ",
       "isBoxData": false
      }
     }
@@ -1423,10 +1441,10 @@
    "metadata": {},
    "executionSummary": {
     "timing": {
-     "startTime": 1754394363946,
-     "endTime": 1754394364774
+     "startTime": 1754859300979,
+     "endTime": 1754859301767
     },
-    "executionOrder": 425,
+    "executionOrder": 184,
     "success": true
    }
   },
@@ -1446,9 +1464,9 @@
        "mime": "text/plain"
       }
      ],
-     "id": "60e52d6d-d4e2-4b6e-b0ae-579b9177aec6",
+     "id": "a54ab556-a64b-4328-bfe6-773696eb9504",
      "metadata": {
-      "cellLabel": "Out[435]//MatrixForm= ",
+      "cellLabel": "Out[194]//MatrixForm= ",
       "isBoxData": false
      }
     }
@@ -1456,10 +1474,10 @@
    "metadata": {},
    "executionSummary": {
     "timing": {
-     "startTime": 1754394364774,
-     "endTime": 1754394365042
+     "startTime": 1754859301769,
+     "endTime": 1754859302100
     },
-    "executionOrder": 434,
+    "executionOrder": 193,
     "success": true
    }
   },
@@ -1471,10 +1489,10 @@
    "metadata": {},
    "executionSummary": {
     "timing": {
-     "startTime": 1754394365044,
-     "endTime": 1754394365512
+     "startTime": 1754859302101,
+     "endTime": 1754859302814
     },
-    "executionOrder": 436,
+    "executionOrder": 195,
     "success": true
    }
   },
@@ -1486,10 +1504,10 @@
    "metadata": {},
    "executionSummary": {
     "timing": {
-     "startTime": 1754394365513,
-     "endTime": 1754394365846
+     "startTime": 1754859302816,
+     "endTime": 1754859303176
     },
-    "executionOrder": 442,
+    "executionOrder": 201,
     "success": true
    }
   },
@@ -1501,10 +1519,10 @@
    "metadata": {},
    "executionSummary": {
     "timing": {
-     "startTime": 1754394365847,
-     "endTime": 1754394366238
+     "startTime": 1754859303178,
+     "endTime": 1754859303670
     },
-    "executionOrder": 446,
+    "executionOrder": 205,
     "success": true
    }
   },
@@ -1524,9 +1542,9 @@
        "mime": "text/plain"
       }
      ],
-     "id": "f22112c2-6cc6-4424-9bf8-be29c5acf206",
+     "id": "eee3d471-d420-4427-8b1f-dbc10669d9fa",
      "metadata": {
-      "cellLabel": "Out[451]//MatrixForm= ",
+      "cellLabel": "Out[210]//MatrixForm= ",
       "isBoxData": false
      }
     }
@@ -1534,10 +1552,10 @@
    "metadata": {},
    "executionSummary": {
     "timing": {
-     "startTime": 1754394366239,
-     "endTime": 1754394366450
+     "startTime": 1754859303672,
+     "endTime": 1754859303891
     },
-    "executionOrder": 451,
+    "executionOrder": 210,
     "success": true
    }
   },
@@ -1549,10 +1567,10 @@
    "metadata": {},
    "executionSummary": {
     "timing": {
-     "startTime": 1754394366451,
-     "endTime": 1754394366729
+     "startTime": 1754859303892,
+     "endTime": 1754859304148
     },
-    "executionOrder": 452,
+    "executionOrder": 211,
     "success": true
    }
   },
@@ -1572,7 +1590,7 @@
        "mime": "text/plain"
       }
      ],
-     "id": "3a6fc8c4-3680-4dac-8943-fdb44e7f0dd1",
+     "id": "69a8c912-3b5a-4db4-b250-c7589a4bf1b8",
      "metadata": {
       "cellLabel": "",
       "isBoxData": false
@@ -1589,9 +1607,9 @@
        "mime": "text/plain"
       }
      ],
-     "id": "a91f9aae-99ae-4612-8d9a-45588a7f2de7",
+     "id": "1af20ff3-6c9c-48ad-8926-802dae70713c",
      "metadata": {
-      "cellLabel": "Out[509]= ",
+      "cellLabel": "Out[214]= ",
       "isBoxData": false
      }
     }
@@ -1599,10 +1617,10 @@
    "metadata": {},
    "executionSummary": {
     "timing": {
-     "startTime": 1754399832668,
-     "endTime": 1754399833059
+     "startTime": 1754859304150,
+     "endTime": 1754859307768
     },
-    "executionOrder": 509,
+    "executionOrder": 214,
     "success": true
    }
   },
@@ -1622,9 +1640,9 @@
        "mime": "text/plain"
       }
      ],
-     "id": "23ed6aaa-3c17-461a-bacd-f1900f72df96",
+     "id": "21014f63-d689-427e-a3a9-7e9167c42fc3",
      "metadata": {
-      "cellLabel": "Out[513]= ",
+      "cellLabel": "Out[215]= ",
       "isBoxData": false
      }
     }
@@ -1632,10 +1650,10 @@
    "metadata": {},
    "executionSummary": {
     "timing": {
-     "startTime": 1754400016264,
-     "endTime": 1754400016446
+     "startTime": 1754859307771,
+     "endTime": 1754859307975
     },
-    "executionOrder": 513,
+    "executionOrder": 215,
     "success": true
    }
   },
@@ -1655,9 +1673,9 @@
        "mime": "text/plain"
       }
      ],
-     "id": "519abadb-7b73-4b5a-99ca-6171c61f83fd",
+     "id": "53a7a9ae-75cd-4af8-accb-05214d57f646",
      "metadata": {
-      "cellLabel": "Out[514]= ",
+      "cellLabel": "Out[216]= ",
       "isBoxData": false
      }
     }
@@ -1665,10 +1683,10 @@
    "metadata": {},
    "executionSummary": {
     "timing": {
-     "startTime": 1754400030814,
-     "endTime": 1754400030997
+     "startTime": 1754859307976,
+     "endTime": 1754859308198
     },
-    "executionOrder": 514,
+    "executionOrder": 216,
     "success": true
    }
   },
@@ -1676,14 +1694,49 @@
    "kind": 2,
    "value": "Close[\"kinetic.chk\"];\r\nClose[\"combination.chk\"];",
    "languageId": "wolfram",
-   "outputs": [],
+   "outputs": [
+    {
+     "items": [
+      {
+       "data": "<pre><span class=\"wl-message\">General::openx</span>: kinetic.chk is not open.</pre>",
+       "mime": "x-application/wolfram-language-html"
+      },
+      {
+       "data": "General::openx: kinetic.chk is not open.",
+       "mime": "text/plain"
+      }
+     ],
+     "id": "92f913d4-ad18-47de-8529-5986ecc3d535",
+     "metadata": {
+      "cellLabel": "",
+      "isBoxData": false
+     }
+    },
+    {
+     "items": [
+      {
+       "data": "<pre><span class=\"wl-message\">General::openx</span>: combination.chk is not open.</pre>",
+       "mime": "x-application/wolfram-language-html"
+      },
+      {
+       "data": "General::openx: combination.chk is not open.",
+       "mime": "text/plain"
+      }
+     ],
+     "id": "204e6393-f45c-4cbc-b936-9d345439dbb1",
+     "metadata": {
+      "cellLabel": "",
+      "isBoxData": false
+     }
+    }
+   ],
    "metadata": {},
    "executionSummary": {
     "timing": {
-     "startTime": 1754400066000,
-     "endTime": 1754400066180
+     "startTime": 1754859308199,
+     "endTime": 1754859308676
     },
-    "executionOrder": 515,
+    "executionOrder": 217,
     "success": true
    }
   },
@@ -1703,7 +1756,7 @@
        "mime": "text/plain"
       }
      ],
-     "id": "e9935290-e3c1-4d85-894f-7581ac2d27c4",
+     "id": "547c7811-6a08-4636-b1a4-2463c4e4450a",
      "metadata": {
       "cellLabel": "",
       "isBoxData": false
@@ -1720,7 +1773,7 @@
        "mime": "text/plain"
       }
      ],
-     "id": "cefd8d92-4b16-4dc3-aef7-98cfce0cd8cd",
+     "id": "7beda17a-e87e-439a-b0c3-e015c914f900",
      "metadata": {
       "cellLabel": "",
       "isBoxData": false
@@ -1730,10 +1783,10 @@
    "metadata": {},
    "executionSummary": {
     "timing": {
-     "startTime": 1754400070743,
-     "endTime": 1754400071244
+     "startTime": 1754859308677,
+     "endTime": 1754859309358
     },
-    "executionOrder": 517,
+    "executionOrder": 219,
     "success": true
    }
   },
@@ -1745,10 +1798,10 @@
    "metadata": {},
    "executionSummary": {
     "timing": {
-     "startTime": 1754400071244,
-     "endTime": 1754400071566
+     "startTime": 1754859309359,
+     "endTime": 1754859309659
     },
-    "executionOrder": 521,
+    "executionOrder": 223,
     "success": true
    }
   },
@@ -1760,10 +1813,10 @@
    "metadata": {},
    "executionSummary": {
     "timing": {
-     "startTime": 1754400071566,
-     "endTime": 1754400071680
+     "startTime": 1754859309660,
+     "endTime": 1754859309788
     },
-    "executionOrder": 524,
+    "executionOrder": 226,
     "success": true
    }
   },
@@ -1775,10 +1828,10 @@
    "metadata": {},
    "executionSummary": {
     "timing": {
-     "startTime": 1754400071680,
-     "endTime": 1754400071810
+     "startTime": 1754859309794,
+     "endTime": 1754859309929
     },
-    "executionOrder": 525,
+    "executionOrder": 227,
     "success": true
    }
   },
@@ -1790,10 +1843,10 @@
    "metadata": {},
    "executionSummary": {
     "timing": {
-     "startTime": 1754400071810,
-     "endTime": 1754400072601
+     "startTime": 1754859309931,
+     "endTime": 1754859311037
     },
-    "executionOrder": 526,
+    "executionOrder": 228,
     "success": true
    }
   },
@@ -1805,10 +1858,10 @@
    "metadata": {},
    "executionSummary": {
     "timing": {
-     "startTime": 1754400072602,
-     "endTime": 1754400072691
+     "startTime": 1754859311040,
+     "endTime": 1754859311147
     },
-    "executionOrder": 535,
+    "executionOrder": 237,
     "success": true
    }
   },
@@ -1828,7 +1881,7 @@
        "mime": "text/plain"
       }
      ],
-     "id": "4fe2c878-40aa-430c-83d4-5951efee3380",
+     "id": "4020fd59-e55e-4d6b-b196-8b5654ecfdca",
      "metadata": {
       "cellLabel": "",
       "isBoxData": false
@@ -1845,7 +1898,7 @@
        "mime": "text/plain"
       }
      ],
-     "id": "e622c137-3a90-4760-99f1-8b967e11db8c",
+     "id": "a1b433c0-21c1-4792-bc91-0cbd65203350",
      "metadata": {
       "cellLabel": "",
       "isBoxData": false
@@ -1862,7 +1915,7 @@
        "mime": "text/plain"
       }
      ],
-     "id": "8fbbeb0b-54b6-43ad-86bc-99e54f878009",
+     "id": "9cf7fa17-5336-404c-be26-b54ff8fcc552",
      "metadata": {
       "cellLabel": "",
       "isBoxData": false
@@ -1879,7 +1932,7 @@
        "mime": "text/plain"
       }
      ],
-     "id": "b4daa32e-9f1b-4e83-a42b-b7e6bb7f0dfb",
+     "id": "c7c62129-5657-49db-aa34-3680a4d89e91",
      "metadata": {
       "cellLabel": "",
       "isBoxData": false
@@ -1896,7 +1949,7 @@
        "mime": "text/plain"
       }
      ],
-     "id": "56791ac1-3d4b-4581-8a0b-a71966595a66",
+     "id": "53012927-0d96-4e4b-a389-52e18db06a8f",
      "metadata": {
       "cellLabel": "",
       "isBoxData": false
@@ -1913,7 +1966,7 @@
        "mime": "text/plain"
       }
      ],
-     "id": "2fe65c83-7a32-4de8-a9cc-38c336e1df32",
+     "id": "d152da5e-717a-4e8b-be8e-a0b48efe61be",
      "metadata": {
       "cellLabel": "",
       "isBoxData": false
@@ -1930,7 +1983,7 @@
        "mime": "text/plain"
       }
      ],
-     "id": "a39ff005-66ba-4cdb-b1b4-2b83bfc44a7b",
+     "id": "da367f1a-076e-4642-aea5-cadda0fcb06f",
      "metadata": {
       "cellLabel": "",
       "isBoxData": false
@@ -1947,7 +2000,7 @@
        "mime": "text/plain"
       }
      ],
-     "id": "87dec2fa-e552-42b5-9e8f-6bd0a8815ed1",
+     "id": "2947f5dc-4d0f-45aa-8a62-e3386fdc3b1f",
      "metadata": {
       "cellLabel": "",
       "isBoxData": false
@@ -1964,7 +2017,7 @@
        "mime": "text/plain"
       }
      ],
-     "id": "0eff94f7-57b0-40a7-9c26-61f6d04d84c9",
+     "id": "bbabb138-9dae-49dc-bd51-001d78f4bb2c",
      "metadata": {
       "cellLabel": "",
       "isBoxData": false
@@ -1981,7 +2034,7 @@
        "mime": "text/plain"
       }
      ],
-     "id": "2e3b7973-09d6-47ea-984e-a4d9836fd709",
+     "id": "be60ca45-bf37-47a2-82cf-72fa38f78f1f",
      "metadata": {
       "cellLabel": "",
       "isBoxData": false
@@ -1998,7 +2051,7 @@
        "mime": "text/plain"
       }
      ],
-     "id": "7ff9ff05-54b0-4fa7-b810-fbf8679b4fb7",
+     "id": "df6f448d-7427-4281-abed-697ea89a2d77",
      "metadata": {
       "cellLabel": "",
       "isBoxData": false
@@ -2015,7 +2068,7 @@
        "mime": "text/plain"
       }
      ],
-     "id": "88c0d42a-6a8f-4e10-85fd-733fcefdb524",
+     "id": "9de0cfd0-85a8-4671-9317-ce77ab996b87",
      "metadata": {
       "cellLabel": "",
       "isBoxData": false
@@ -2032,7 +2085,7 @@
        "mime": "text/plain"
       }
      ],
-     "id": "533a4784-912c-4f1c-b293-11b6acaa2265",
+     "id": "47467464-5c6e-4b2d-95e2-c605f5222dbc",
      "metadata": {
       "cellLabel": "",
       "isBoxData": false
@@ -2049,7 +2102,7 @@
        "mime": "text/plain"
       }
      ],
-     "id": "a2ee286a-2809-4da5-8366-eafcf67c2d47",
+     "id": "f5b308c1-da9a-4999-bfc1-97a1615ccd0e",
      "metadata": {
       "cellLabel": "",
       "isBoxData": false
@@ -2066,7 +2119,7 @@
        "mime": "text/plain"
       }
      ],
-     "id": "0b4df5c3-961d-4ceb-a071-1bdba6e6d1cd",
+     "id": "6e516e69-1415-4e64-9304-381c427ce0f0",
      "metadata": {
       "cellLabel": "",
       "isBoxData": false
@@ -2083,7 +2136,7 @@
        "mime": "text/plain"
       }
      ],
-     "id": "8bac10e9-a00b-4b1f-9549-f04a51517d46",
+     "id": "1927e380-ce8b-4571-a4da-dd2005742572",
      "metadata": {
       "cellLabel": "",
       "isBoxData": false
@@ -2100,7 +2153,7 @@
        "mime": "text/plain"
       }
      ],
-     "id": "6235b824-d89b-4023-9d7b-8f4bd4bdb052",
+     "id": "749d00e1-eb40-4809-8994-8e66e4085bfa",
      "metadata": {
       "cellLabel": "",
       "isBoxData": false
@@ -2117,7 +2170,7 @@
        "mime": "text/plain"
       }
      ],
-     "id": "9a1e52b0-ac43-4508-8405-1ace466464d0",
+     "id": "b8c97088-ba62-4fb7-9a4c-3c888a073ae0",
      "metadata": {
       "cellLabel": "",
       "isBoxData": false
@@ -2134,7 +2187,7 @@
        "mime": "text/plain"
       }
      ],
-     "id": "b3d93213-8952-4fd5-ba69-6909a8798d68",
+     "id": "c22bd155-4448-4d25-b10c-ed764bec7936",
      "metadata": {
       "cellLabel": "",
       "isBoxData": false
@@ -2151,7 +2204,7 @@
        "mime": "text/plain"
       }
      ],
-     "id": "58c0e35a-9969-4177-ac06-7643de128d12",
+     "id": "c673787b-3981-4864-b05e-fd261dd98796",
      "metadata": {
       "cellLabel": "",
       "isBoxData": false
@@ -2168,7 +2221,7 @@
        "mime": "text/plain"
       }
      ],
-     "id": "8806ed12-a9f1-41b7-ae9c-d3ef8afd411d",
+     "id": "e9b76cd1-5e9a-4f16-aa08-026ea7275dd6",
      "metadata": {
       "cellLabel": "",
       "isBoxData": false
@@ -2185,7 +2238,7 @@
        "mime": "text/plain"
       }
      ],
-     "id": "a83f334e-3e26-4c03-af92-05e1d52cf5be",
+     "id": "00c0abec-a108-4849-8fe2-aa4c19e6f42a",
      "metadata": {
       "cellLabel": "",
       "isBoxData": false
@@ -2202,7 +2255,7 @@
        "mime": "text/plain"
       }
      ],
-     "id": "6cf3c5c8-bad5-43e9-bd70-2b447341510f",
+     "id": "a35b9b61-ed77-40b2-9f84-e0ba5308db34",
      "metadata": {
       "cellLabel": "",
       "isBoxData": false
@@ -2212,10 +2265,10 @@
    "metadata": {},
    "executionSummary": {
     "timing": {
-     "startTime": 1754400072691,
-     "endTime": 1754400076946
+     "startTime": 1754859311148,
+     "endTime": 1754859314906
     },
-    "executionOrder": 536,
+    "executionOrder": 238,
     "success": true
    }
   },
@@ -2227,10 +2280,10 @@
    "metadata": {},
    "executionSummary": {
     "timing": {
-     "startTime": 1754400076947,
-     "endTime": 1754400077305
+     "startTime": 1754859314907,
+     "endTime": 1754859315300
     },
-    "executionOrder": 541,
+    "executionOrder": 243,
     "success": true
    }
   },
@@ -2242,10 +2295,10 @@
    "metadata": {},
    "executionSummary": {
     "timing": {
-     "startTime": 1754400077305,
-     "endTime": 1754400077555
+     "startTime": 1754859315306,
+     "endTime": 1754859315555
     },
-    "executionOrder": 545,
+    "executionOrder": 247,
     "success": true
    }
   },
@@ -2265,7 +2318,7 @@
        "mime": "text/plain"
       }
      ],
-     "id": "d21a09f0-0b03-4979-a69d-f6daf01f199a",
+     "id": "fe8cd81f-ca1f-4d47-88cf-69e83048a0b5",
      "metadata": {
       "cellLabel": "",
       "isBoxData": false
@@ -2282,7 +2335,7 @@
        "mime": "text/plain"
       }
      ],
-     "id": "7cde3613-74b1-46fe-86f8-618b2333d8f8",
+     "id": "ad38ea59-3941-423d-8b29-7c25318cbbb2",
      "metadata": {
       "cellLabel": "",
       "isBoxData": false
@@ -2299,7 +2352,7 @@
        "mime": "text/plain"
       }
      ],
-     "id": "52ba287b-5cbb-4226-b28b-5923aab3ca06",
+     "id": "f8d1082a-a985-4b81-9b3b-9d27cc96d72f",
      "metadata": {
       "cellLabel": "",
       "isBoxData": false
@@ -2309,10 +2362,10 @@
    "metadata": {},
    "executionSummary": {
     "timing": {
-     "startTime": 1754400077556,
-     "endTime": 1754400078628
+     "startTime": 1754859315556,
+     "endTime": 1754859316840
     },
-    "executionOrder": 548,
+    "executionOrder": 250,
     "success": true
    }
   },
@@ -2332,9 +2385,9 @@
        "mime": "text/plain"
       }
      ],
-     "id": "8286fc3c-6eb7-452d-b212-c67f351f895f",
+     "id": "145f34b5-094a-4333-8287-599485d2f8c5",
      "metadata": {
-      "cellLabel": "Out[560]//MatrixForm= ",
+      "cellLabel": "Out[262]//MatrixForm= ",
       "isBoxData": false
      }
     },
@@ -2349,9 +2402,9 @@
        "mime": "text/plain"
       }
      ],
-     "id": "2c343849-f6bc-4b02-bab9-918a711b0304",
+     "id": "af5cc3bd-3f85-48a0-b748-ef8668db3cc7",
      "metadata": {
-      "cellLabel": "Out[562]//MatrixForm= ",
+      "cellLabel": "Out[264]//MatrixForm= ",
       "isBoxData": false
      }
     },
@@ -2366,9 +2419,9 @@
        "mime": "text/plain"
       }
      ],
-     "id": "c3595e39-00a8-43fc-b903-42a7a3c871ab",
+     "id": "8cf6a393-2f42-44a4-aa2e-c1d621c437b3",
      "metadata": {
-      "cellLabel": "Out[563]//MatrixForm= ",
+      "cellLabel": "Out[265]//MatrixForm= ",
       "isBoxData": false
      }
     },
@@ -2383,9 +2436,9 @@
        "mime": "text/plain"
       }
      ],
-     "id": "a31170d4-5091-4a9e-83d4-ac5adc0c14e2",
+     "id": "887c3daf-f178-4c96-8fa7-895d7ac2a081",
      "metadata": {
-      "cellLabel": "Out[565]//MatrixForm= ",
+      "cellLabel": "Out[267]//MatrixForm= ",
       "isBoxData": false
      }
     },
@@ -2400,9 +2453,9 @@
        "mime": "text/plain"
       }
      ],
-     "id": "a478f27b-6c80-4960-ad60-c0cc6ce3c26c",
+     "id": "87abebcf-8500-4185-b18f-7e1b0503db09",
      "metadata": {
-      "cellLabel": "Out[567]//MatrixForm= ",
+      "cellLabel": "Out[269]//MatrixForm= ",
       "isBoxData": false
      }
     },
@@ -2417,9 +2470,9 @@
        "mime": "text/plain"
       }
      ],
-     "id": "ca98c244-3534-4b83-bbab-f90978216ea3",
+     "id": "ba6efc07-6584-4167-8c41-fd21db89c938",
      "metadata": {
-      "cellLabel": "Out[569]//MatrixForm= ",
+      "cellLabel": "Out[271]//MatrixForm= ",
       "isBoxData": false
      }
     },
@@ -2434,9 +2487,9 @@
        "mime": "text/plain"
       }
      ],
-     "id": "ab2e5151-a433-4b87-9b04-99558b1d309c",
+     "id": "a7fbb3ac-d29c-40c5-8d69-fc1b1c7d3cb4",
      "metadata": {
-      "cellLabel": "Out[570]//MatrixForm= ",
+      "cellLabel": "Out[272]//MatrixForm= ",
       "isBoxData": false
      }
     },
@@ -2451,9 +2504,9 @@
        "mime": "text/plain"
       }
      ],
-     "id": "bfe94fd0-9e27-442e-86a2-345395c78ea0",
+     "id": "397a832d-4bfd-450c-9b14-591eccdc6b86",
      "metadata": {
-      "cellLabel": "Out[571]//MatrixForm= ",
+      "cellLabel": "Out[273]//MatrixForm= ",
       "isBoxData": false
      }
     },
@@ -2468,9 +2521,9 @@
        "mime": "text/plain"
       }
      ],
-     "id": "b6e7ff91-0cfa-40aa-a18e-91814b280a16",
+     "id": "0eb7c7f8-48cd-4a5d-974c-7da04db15f59",
      "metadata": {
-      "cellLabel": "Out[572]//MatrixForm= ",
+      "cellLabel": "Out[274]//MatrixForm= ",
       "isBoxData": false
      }
     }
@@ -2478,10 +2531,10 @@
    "metadata": {},
    "executionSummary": {
     "timing": {
-     "startTime": 1754407930453,
-     "endTime": 1754407933125
+     "startTime": 1754859316842,
+     "endTime": 1754859320132
     },
-    "executionOrder": 552,
+    "executionOrder": 254,
     "success": true
    }
   },
@@ -2501,9 +2554,9 @@
        "mime": "text/plain"
       }
      ],
-     "id": "b42a2c8e-7783-48b1-a56f-e2be02ee107d",
+     "id": "8e2cb130-0042-494a-8247-f445ab51e166",
      "metadata": {
-      "cellLabel": "Out[576]//MatrixForm= ",
+      "cellLabel": "Out[278]//MatrixForm= ",
       "isBoxData": false
      }
     }
@@ -2511,10 +2564,10 @@
    "metadata": {},
    "executionSummary": {
     "timing": {
-     "startTime": 1754407990597,
-     "endTime": 1754407991039
+     "startTime": 1754859320134,
+     "endTime": 1754859320691
     },
-    "executionOrder": 573,
+    "executionOrder": 275,
     "success": true
    }
   },
@@ -2534,9 +2587,9 @@
        "mime": "text/plain"
       }
      ],
-     "id": "65229ba6-00ee-4678-8c08-154a6d4b4229",
+     "id": "371667ae-aa8a-4967-bdf1-41e5852a6325",
      "metadata": {
-      "cellLabel": "Out[578]//MatrixForm= ",
+      "cellLabel": "Out[280]//MatrixForm= ",
       "isBoxData": false
      }
     },
@@ -2551,9 +2604,9 @@
        "mime": "text/plain"
       }
      ],
-     "id": "c134c506-f0f5-49b6-b56b-d3098ac473f9",
+     "id": "80fe8bb3-c18e-464f-91ed-ebe48d7067dd",
      "metadata": {
-      "cellLabel": "Out[579]//MatrixForm= ",
+      "cellLabel": "Out[281]//MatrixForm= ",
       "isBoxData": false
      }
     },
@@ -2568,9 +2621,9 @@
        "mime": "text/plain"
       }
      ],
-     "id": "09edc530-314b-4e8a-8621-6ca996497dcb",
+     "id": "69987eb3-2f99-4979-8d56-c986fa027700",
      "metadata": {
-      "cellLabel": "Out[580]//MatrixForm= ",
+      "cellLabel": "Out[282]//MatrixForm= ",
       "isBoxData": false
      }
     },
@@ -2585,9 +2638,9 @@
        "mime": "text/plain"
       }
      ],
-     "id": "28424697-ea17-49ba-b88a-f575547ef8f9",
+     "id": "141d7e75-3196-4266-8ce6-d450120943ed",
      "metadata": {
-      "cellLabel": "Out[581]//MatrixForm= ",
+      "cellLabel": "Out[283]//MatrixForm= ",
       "isBoxData": false
      }
     },
@@ -2602,9 +2655,9 @@
        "mime": "text/plain"
       }
      ],
-     "id": "165c9e31-f21f-4c62-82d5-d320cceb070f",
+     "id": "88d6f4b9-a857-49d1-83e8-24b18cb0dd37",
      "metadata": {
-      "cellLabel": "Out[582]//MatrixForm= ",
+      "cellLabel": "Out[284]//MatrixForm= ",
       "isBoxData": false
      }
     },
@@ -2619,9 +2672,9 @@
        "mime": "text/plain"
       }
      ],
-     "id": "323b34dc-e319-4483-b3c9-a255f9f3898a",
+     "id": "39322a6e-c6f8-4ae9-acb1-a0a04a9248ca",
      "metadata": {
-      "cellLabel": "Out[583]//MatrixForm= ",
+      "cellLabel": "Out[285]//MatrixForm= ",
       "isBoxData": false
      }
     },
@@ -2636,9 +2689,9 @@
        "mime": "text/plain"
       }
      ],
-     "id": "6a146a27-586b-4aef-9200-bff908f358f9",
+     "id": "7184d006-2d1a-4ca2-8191-d9de1e7ce4ae",
      "metadata": {
-      "cellLabel": "Out[584]//MatrixForm= ",
+      "cellLabel": "Out[286]//MatrixForm= ",
       "isBoxData": false
      }
     }
@@ -2646,10 +2699,10 @@
    "metadata": {},
    "executionSummary": {
     "timing": {
-     "startTime": 1754408011474,
-     "endTime": 1754408016497
+     "startTime": 1754859320693,
+     "endTime": 1754859343468
     },
-    "executionOrder": 577,
+    "executionOrder": 279,
     "success": true
    }
   }
