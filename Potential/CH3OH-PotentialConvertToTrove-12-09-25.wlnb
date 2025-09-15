@@ -467,16 +467,16 @@
   },
   {
    "kind": 2,
-   "value": "(* Keep bending, dihedrals and torsion *)\r\n(* modesToDecouple = {1, 2, 3, 4, 5, 6}; *)\r\n(* Keep stretches, dihedrals and torsion *)\r\n(* modesToDecouple = {1, 2, 6, 7, 8, 9}; *)\r\n(* Keep stretches, bends and torsion *)\r\n(* modesToDecouple = {1, 2, 6, 10, 11}; *)\r\n(* Keep stretches and torsion *)\r\n(* modesToDecouple = {1, 2, 6, 7, 8, 9, 10, 11}; *)\r\n(* Keep bends and torsion *)\r\n(* modesToDecouple = {1, 2, 3, 4, 5, 6, 10, 11}; *)\r\n(* Keep dihedrals and torsion *)\r\nmodesToDecouple = {1, 2, 3, 4, 5, 6, 7, 8, 9};\r\n(* Keep stretching and bending *)\r\n(* modesToDecouple = {1, 2, 6, 10, 11, 12}; *)\r\n(* Keep stretching and dihedrals *)\r\n(* modesToDecouple = {1, 2, 6, 7, 8, 9, 12};     *)\r\n(* Keep Bending and dihedrals *)\r\n(* modesToDecouple = {1, 2, 3, 4, 5, 6, 12};  *)\r\n(* Keep Streches, Bending and dihedrals *)\r\n(* modesToDecouple = {1, 2, 6, 12}; *)\r\n(* Keep Stretching *)\r\n(* modesToDecouple = {1, 2, 6, 7, 8, 9, 10, 11, 12}; *)\r\n(* Keep Bending *)\r\n(* modesToDecouple = {1, 2, 3, 4, 5, 6, 10, 11, 12};            *)\r\n(* Keep dihedrals *)\r\n(* modesToDecouple = {1, 2, 3, 4, 5, 6, 7, 8, 9, 12}; *)\r\n(* Keep all *)\r\n(* modesToDecouple = {}; *)\r\nreducedPotentialParameters = {};\r\nnumberOfTermsInFullPotential = Length[newPotentialParameters];\r\nkeepParameters = ConstantArray[False, numberOfTermsInFullPotential];\r\nFor[i = 1, i <= numberOfTermsInFullPotential, i++,\r\n    If[Count[newPotentialParameters[[i]][[2 ;; 13]], _?(# != 0 &)] <= 1, keepParameters[[i]] = True]\r\n];\r\nFor[i = 1, i <= numberOfTermsInFullPotential, i++,\r\n    If[keepParameters[[i]], \r\n        reducedPotentialParameters = Append[reducedPotentialParameters, newPotentialParameters[[i]]]\r\n    ]\r\n];\r\nFor[i = 1, i <= numberOfTermsInFullPotential, i++,\r\n    If[Total[Boole[# != 0 & /@ Part[newPotentialParameters[[i]][[2 ;; 13]], modesToDecouple]]] == 0, keepParameters[[i]] = True]\r\n];\r\nFor[i = 1, i <= numberOfTermsInFullPotential, i++,\r\n    If[keepParameters[[i]], \r\n        reducedPotentialParameters = Append[reducedPotentialParameters, newPotentialParameters[[i]]]\r\n    ]\r\n];\r\nreducedPotentialParameters = DeleteDuplicates[reducedPotentialParameters];\r\n",
+   "value": "(* Keep bending, dihedrals and torsion *)\r\n(* modesToDecouple = {1, 2, 3, 4, 5, 6}; *)\r\n(* Keep stretches, dihedrals and torsion *)\r\n(* modesToDecouple = {1, 2, 6, 7, 8, 9}; *)\r\n(* Keep stretches, bends and torsion *)\r\n(* modesToDecouple = {1, 2, 6, 10, 11}; *)\r\n(* Keep stretches and torsion *)\r\n(* modesToDecouple = {1, 2, 6, 7, 8, 9, 10, 11}; *)\r\n(* Keep bends and torsion *)\r\n(* modesToDecouple = {1, 2, 3, 4, 5, 6, 10, 11}; *)\r\n(* Keep dihedrals and torsion *)\r\n(* modesToDecouple = {1, 2, 3, 4, 5, 6, 7, 8, 9}; *)\r\n(* Keep stretching and bending *)\r\n(* modesToDecouple = {1, 2, 6, 10, 11, 12}; *)\r\n(* Keep stretching and dihedrals *)\r\n(* modesToDecouple = {1, 2, 6, 7, 8, 9, 12};     *)\r\n(* Keep Bending and dihedrals *)\r\n(* modesToDecouple = {1, 2, 3, 4, 5, 6, 12};  *)\r\n(* Keep Streches, Bending and dihedrals *)\r\n(* modesToDecouple = {1, 2, 6, 12}; *)\r\n(* Keep Stretching *)\r\n(* modesToDecouple = {1, 2, 6, 7, 8, 9, 10, 11, 12}; *)\r\n(* Keep Bending *)\r\n(* modesToDecouple = {1, 2, 3, 4, 5, 6, 10, 11, 12};            *)\r\n(* Keep dihedrals *)\r\n(* modesToDecouple = {1, 2, 3, 4, 5, 6, 7, 8, 9, 12}; *)\r\n(* Keep all *)\r\nmodesToDecouple = {};\r\nreducedPotentialParameters = {};\r\nnumberOfTermsInFullPotential = Length[newPotentialParameters];\r\nkeepParameters = ConstantArray[False, numberOfTermsInFullPotential];\r\nFor[i = 1, i <= numberOfTermsInFullPotential, i++,\r\n    If[Count[newPotentialParameters[[i]][[2 ;; 13]], _?(# != 0 &)] <= 1, keepParameters[[i]] = True]\r\n];\r\nFor[i = 1, i <= numberOfTermsInFullPotential, i++,\r\n    If[keepParameters[[i]], \r\n        reducedPotentialParameters = Append[reducedPotentialParameters, newPotentialParameters[[i]]]\r\n    ]\r\n];\r\nFor[i = 1, i <= numberOfTermsInFullPotential, i++,\r\n    If[Total[Boole[# != 0 & /@ Part[newPotentialParameters[[i]][[2 ;; 13]], modesToDecouple]]] == 0, keepParameters[[i]] = True]\r\n];\r\nFor[i = 1, i <= numberOfTermsInFullPotential, i++,\r\n    If[keepParameters[[i]], \r\n        reducedPotentialParameters = Append[reducedPotentialParameters, newPotentialParameters[[i]]]\r\n    ]\r\n];\r\nreducedPotentialParameters = DeleteDuplicates[reducedPotentialParameters];\r\n",
    "languageId": "wolfram",
    "outputs": [],
    "metadata": {},
    "executionSummary": {
     "timing": {
-     "startTime": 1757715573203,
-     "endTime": 1757715573911
+     "startTime": 1757715792175,
+     "endTime": 1757715792962
     },
-    "executionOrder": 162,
+    "executionOrder": 378,
     "success": true
    }
   },
@@ -488,10 +488,10 @@
    "metadata": {},
    "executionSummary": {
     "timing": {
-     "startTime": 1757715573911,
-     "endTime": 1757715573994
+     "startTime": 1757715792962,
+     "endTime": 1757715793061
     },
-    "executionOrder": 171,
+    "executionOrder": 387,
     "success": true
    }
   },
@@ -503,10 +503,10 @@
    "metadata": {},
    "executionSummary": {
     "timing": {
-     "startTime": 1757715573995,
-     "endTime": 1757715574072
+     "startTime": 1757715793065,
+     "endTime": 1757715793137
     },
-    "executionOrder": 172,
+    "executionOrder": 388,
     "success": true
    }
   },
@@ -518,17 +518,17 @@
     {
      "items": [
       {
-       "data": "<div class=\"wexpr\"><w>1</w></div>",
+       "data": "<div class=\"wexpr\"><w>0</w></div>",
        "mime": "x-application/wolfram-language-html"
       },
       {
-       "data": "1",
+       "data": "0",
        "mime": "text/plain"
       }
      ],
-     "id": "50d944b2-d38f-4e67-a1f2-da084a279203",
+     "id": "1c9e52ac-09e9-4d46-9e83-7d6ee3e73fcb",
      "metadata": {
-      "cellLabel": "Out[173]= ",
+      "cellLabel": "Out[389]= ",
       "isBoxData": false
      }
     }
@@ -536,10 +536,10 @@
    "metadata": {},
    "executionSummary": {
     "timing": {
-     "startTime": 1757715574072,
-     "endTime": 1757715574240
+     "startTime": 1757715793138,
+     "endTime": 1757715793323
     },
-    "executionOrder": 173,
+    "executionOrder": 389,
     "success": true
    }
   },
@@ -551,10 +551,10 @@
    "metadata": {},
    "executionSummary": {
     "timing": {
-     "startTime": 1757715574241,
-     "endTime": 1757715574340
+     "startTime": 1757715793324,
+     "endTime": 1757715793409
     },
-    "executionOrder": 174,
+    "executionOrder": 390,
     "success": true
    }
   },
@@ -566,10 +566,10 @@
    "metadata": {},
    "executionSummary": {
     "timing": {
-     "startTime": 1757715574341,
-     "endTime": 1757715574461
+     "startTime": 1757715793409,
+     "endTime": 1757715793501
     },
-    "executionOrder": 175,
+    "executionOrder": 391,
     "success": true
    }
   },
@@ -589,9 +589,9 @@
        "mime": "text/plain"
       }
      ],
-     "id": "83415724-fde9-4a2f-9139-18504756f778",
+     "id": "c4fdb253-f8bc-46f4-916e-b10d22e0096e",
      "metadata": {
-      "cellLabel": "Out[176]= ",
+      "cellLabel": "Out[392]= ",
       "isBoxData": false
      }
     }
@@ -599,10 +599,10 @@
    "metadata": {},
    "executionSummary": {
     "timing": {
-     "startTime": 1757715574462,
-     "endTime": 1757715574642
+     "startTime": 1757715793501,
+     "endTime": 1757715793708
     },
-    "executionOrder": 176,
+    "executionOrder": 392,
     "success": true
    }
   },
@@ -614,10 +614,10 @@
    "metadata": {},
    "executionSummary": {
     "timing": {
-     "startTime": 1757715574642,
-     "endTime": 1757715574722
+     "startTime": 1757715793708,
+     "endTime": 1757715793796
     },
-    "executionOrder": 177,
+    "executionOrder": 393,
     "success": true
    }
   },
@@ -637,7 +637,7 @@
        "mime": "text/plain"
       }
      ],
-     "id": "cc01f159-c3aa-479d-bb23-7fe365cdbf97",
+     "id": "171dd60a-81d4-42ca-a73d-4379382324f4",
      "metadata": {
       "cellLabel": "",
       "isBoxData": false
@@ -647,10 +647,10 @@
    "metadata": {},
    "executionSummary": {
     "timing": {
-     "startTime": 1757715574728,
-     "endTime": 1757715574963
+     "startTime": 1757715793797,
+     "endTime": 1757715794012
     },
-    "executionOrder": 178,
+    "executionOrder": 394,
     "success": true
    }
   },
@@ -662,10 +662,10 @@
    "metadata": {},
    "executionSummary": {
     "timing": {
-     "startTime": 1757715574965,
-     "endTime": 1757715575424
+     "startTime": 1757715794013,
+     "endTime": 1757715794713
     },
-    "executionOrder": 180,
+    "executionOrder": 396,
     "success": true
    }
   },
@@ -677,10 +677,10 @@
    "metadata": {},
    "executionSummary": {
     "timing": {
-     "startTime": 1757715575426,
-     "endTime": 1757715575505
+     "startTime": 1757715794714,
+     "endTime": 1757715794824
     },
-    "executionOrder": 185,
+    "executionOrder": 401,
     "success": true
    }
   }
